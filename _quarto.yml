@@ -4,7 +4,7 @@ project:
 
 website:
   description: "A blog built with Quarto"
-  title: "qblog_class_demo"
+  title: "qblog class demo"
   navbar:
     right:
       - about.qmd

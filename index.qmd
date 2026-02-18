@@ -1,5 +1,5 @@
 ---
-title: "qblog_class_demo"
+title: "qblog class demo"
 listing:
   contents: posts
   sort: "date desc"
