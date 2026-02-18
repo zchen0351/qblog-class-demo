@@ -1,13 +1,9 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Lab 7 Project Update"
+author: "Ziyuan Chen"
 date: "2026-02-18"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
-
-```{r}
-1 + 1
-```
+For the project, we created a skeleton of the dashboard and divided up who is plotting what for the project. We each started working on our part and will meet on Tuesday to put it all together.
